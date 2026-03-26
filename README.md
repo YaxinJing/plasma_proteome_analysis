@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Longitudinal Proteomics Analysis Toolkit</h1>
+  <h1 align="center">Longitudinal Proteomics Analysis </h1>
   <p align="center">
     Tools for analysing temporal changes in plasma proteome data from longitudinal clinical cohorts (updating)
     <br />
