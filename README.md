@@ -1,12 +1,8 @@
-# plasma_proteome_analysis
-
-
 <p align="center">
   <h1 align="center">Longitudinal Proteomics Analysis Toolkit</h1>
   <p align="center">
-    Tools for analysing temporal changes in plasma proteome data from longitudinal clinical cohorts.
+    Tools for analysing temporal changes in plasma proteome data from longitudinal clinical cohorts (updating)
     <br />
-    Developed for studies with repeated sampling across multiple timepoints per patient.
   </p>
 </p>
 <p align="center">
@@ -19,7 +15,6 @@
 
 
 
-Overview
 This repository contains Python scripts for complementary aspects of longitudinal proteomics analysis:
 ScriptPurposeLMM.pyPer-protein linear mixed-effects modelling with full preprocessing pipelineorgan_trajectory.pyOrgan-level trajectory analysis using tissue atlas annotations (HPA / GLS)
 Both scripts accept long-format proteomics data (one row per protein × patient × timepoint) and produce tabular results, diagnostic plots, and human-readable summaries.
